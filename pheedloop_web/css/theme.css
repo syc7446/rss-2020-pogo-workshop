@@ -17,4 +17,9 @@ body {
 .pioneers .list-group-item {
     padding: 5px 0 5px 0;
     border-bottom: 0;
+    margin: 5px 0;
+}
+
+.pioneers .list-group-item .card {
+    margin: 5px 0;
 }
