@@ -1,1 +1,1 @@
-# RSS 2020 Power-On-And-Go Workshop Files
+# RSS 2020 Pioneers Workshop Files
